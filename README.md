@@ -102,3 +102,4 @@ Desenvolvimento utilizando TDD.
 
 ## Importante!
 - O teste é propositalmente longo, não se preocupe se não concluir tudo a tempo, todavia os itens mais importantes são, código limpo, princípios SOLID, e Testes.
+- Você pode inserir os 3 projetos no mesmo repositório com nomes frontend, backend e mobile.
