@@ -1,0 +1,15 @@
+{
+  "name": "desafio-entrevista-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Arvo-palma/desafio-entrevista-nodejs.git",
+  "author": "Álvaro Palma <contact.alvaro.palma@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "mobile"
+  ]
+}
